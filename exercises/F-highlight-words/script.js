@@ -1,5 +1,8 @@
 function highlightWords(paragraph, colours) {
   // Write your code here...
+  let myContent = document.getElementById("content");
+  let myP = document.createElement("p");
+  let mySelect
 }
 
 const paragraph =
